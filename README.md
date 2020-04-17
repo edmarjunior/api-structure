@@ -1,4 +1,4 @@
-# node-structure
+# api-structure
 
 ## Aplicação em node para API REST com:
   - modelo de estrutura de pasta/arquivos
