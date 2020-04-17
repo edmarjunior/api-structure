@@ -10,6 +10,7 @@
   
  ## Pré-requisitos (instalações)
   - node
+  - yarn
   - docker e docker-compose
    
  ## Rodando aplicação
