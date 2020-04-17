@@ -2,7 +2,7 @@
   "name": "node-structure",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/edmarjunior/node-structure.git",
+  "repository": "https://github.com/edmarjunior/api-structure.git",
   "author": "Edmar Junior <edmarjunior17@gmail.com>",
   "license": "MIT",
   "scripts": {
