@@ -1,4 +1,4 @@
-# Basic API
+# Base API
 
 ## Aplicação em node para API REST com:
   - modelo de estrutura de pasta/arquivos
